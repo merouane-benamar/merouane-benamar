@@ -6,6 +6,7 @@ I build and maintain **business applications** and **APIs** for large companies 
 - 💼 Currently a consultant in the **asset management** industry, on the shared foundation of a portfolio management and reporting platform
 - 🧩 Experience with modular monoliths, REST and SOAP integrations, a Java/Swing thick-client framework and batch processing
 - 🏢 Used to large enterprise environments: CI/CD pipelines, OAuth 2.0 / Keycloak, secrets management with Vault, batch scheduling, Oracle databases
+- 🛡️ Fixing issues reported by code and dependency scanners (Coverity, SonarQube, Black Duck)
 - 🚀 Contributed to deployment migrations to Kubernetes, Helm and Argo CD
 - 🤖 Daily user of AI-assisted development (Claude, Codex)
 - 🌱 Currently exploring Kubernetes, Terraform, AWS, AI and LLMs
@@ -14,8 +15,8 @@ I build and maintain **business applications** and **APIs** for large companies 
 
 #### Tech stack
 
-- **Backend:** Java (8 to 21) · Spring Boot · Spring Data JPA · Spring WebFlux · REST & SOAP APIs · Maven
-- **Security:** Spring Security · OAuth 2.0 / JWT · Keycloak · HashiCorp Vault
+- **Backend:** Java (8 to 21) · Spring Boot · Spring Data JPA · Spring WebFlux · REST & SOAP APIs · JMS · Maven
+- **Security:** Spring Security · OAuth 2.0 / JWT · Keycloak · HashiCorp Vault · SonarQube · Coverity · Black Duck
 - **Data:** SQL · Oracle · PostgreSQL · Flyway · JPA / Hibernate
 - **Desktop:** Java Swing
 - **Cloud & delivery:** Docker · Amazon S3 · GitLab · Jenkins · Control-M
