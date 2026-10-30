@@ -19,5 +19,5 @@ I build and maintain **business applications** and **APIs** for large companies 
 - **Security:** Spring Security · OAuth 2.0 / JWT · Keycloak · HashiCorp Vault · SonarQube · Coverity · Black Duck
 - **Data:** SQL · Oracle · PostgreSQL · Flyway · JPA / Hibernate
 - **Desktop:** Java Swing
-- **Cloud & delivery:** Docker · Amazon S3 · GitLab · Jenkins · Control-M
+- **Cloud & delivery:** Docker · Amazon S3 · GitLab · Jenkins · Artifactory · Control-M
 - **Tools:** Git · SVN · IntelliJ IDEA · Linux
